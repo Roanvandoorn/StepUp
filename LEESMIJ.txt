@@ -1,0 +1,31 @@
+STEPUP SIGNATURE — Chromebook versie
+
+Openen:
+1. Pak het ZIP-bestand uit.
+2. Open index.html in Google Chrome.
+
+Nieuw in deze versie:
+- StepUp-logo vliegt bij het eerste openen echt de sticky navigatie in.
+- Liquid-glass licht reageert subtiel op je muis/trackpad.
+- Hero-afbeelding heeft rustige 3D/parallax beweging.
+- Bewegende StepUp brand-strip op de homepage.
+- Knoppen hebben een zachte magnetische reactie en licht-sweep.
+- Productfoto vliegt naar het winkelwagen-icoon bij toevoegen.
+- Winkelwagen-icoon en teller krijgen een korte arrival-animatie.
+- Paginawissels gebruiken een liquid-glass bloom vanuit de klikpositie.
+- Editorial foto beweegt subtiel mee met scrollen.
+- Alle effecten respecteren 'verminder beweging' / prefers-reduced-motion.
+
+Let op:
+De schoenfoto's worden via Unsplash geladen en hebben dus internet nodig.
+De webshop is een front-end concept; echte betalingen, accounts en orderverwerking
+vereisen later een backend/betaalprovider.
+
+Gemaakt door Trydynt · © 2026 Trydynt. Alle rechten voorbehouden.
+
+
+Opdracht 11 toegevoegd:
+- 3 duidelijke productcategorieën: Sneakers, Sport en Lifestyle.
+- Sale-filter en 2 producten met zichtbare van/voor-prijs.
+- Klantenservicepagina met verzendkosten, levertijd, retourbeleid en contact.
+- Homepage heeft een opvallende Sale-call-to-action die direct naar de aanbiedingen linkt.

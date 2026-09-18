@@ -1,0 +1,21 @@
+STEPUP — OPDRACHT 16 CONTROLE
+
+Gecontroleerd:
+- Over Ons staat in de hoofdnavigatie.
+- FAQ staat als aparte pagina in de hoofdnavigatie.
+- Over Ons-verhaal: 171 woorden in het hoofdverhaal (ruim boven minimaal 100).
+- Over Ons bevat een passende sfeerfoto.
+- Het verhaal benoemt wie achter StepUp zit, de missie en het onderscheidend vermogen.
+- FAQ bevat 6 professionele vragen en antwoorden (minimaal 4 vereist).
+- FAQ behandelt levertijd, verzendkosten, retourneren, betalen, beschadiging en maatkeuze.
+- Servicepagina verwijst naar de aparte FAQ.
+- Footer verwijst naar FAQ en bevat contactinformatie.
+- Alle lokale HTML/CSS/JS-links gecontroleerd: geen ontbrekende bestanden.
+- assets/site.js gecontroleerd met Node: geen syntaxfouten.
+- CSS-blokken gecontroleerd: accolades in balans.
+
+Nog door jou in Mozello te doen:
+- Peer-review met klasgenoot.
+- Feedback verwerken.
+- Publiceren.
+- Live link in Google Classroom inleveren.

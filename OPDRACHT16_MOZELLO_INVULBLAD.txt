@@ -1,0 +1,54 @@
+STEPUP — OPDRACHT 16: OVER ONS & VEELGESTELDE VRAGEN (FAQ)
+
+OVER ONS — TEKST VOOR MOZELLO
+
+Achter StepUp staat een klein team van sneakerliefhebbers dat merkte hoe onoverzichtelijk online schoenen shoppen soms kan zijn. Tientallen bijna dezelfde modellen, onduidelijke informatie en eindeloos zoeken maken kiezen onnodig lastig. Daarom is StepUp ontstaan: een webshop waarin we alleen modellen selecteren die volgens ons iets toevoegen op het gebied van stijl, comfort of gebruiksgemak.
+
+Onze missie is om klanten zonder keuzestress het juiste paar te laten vinden. We verdelen de collectie bewust in Sneakers, Sport en Lifestyle, geven duidelijke productinformatie en zorgen dat maat, prijs, voorraad en service direct zichtbaar zijn. Zo weet je sneller waar je aan toe bent.
+
+Wat StepUp anders maakt, is dat we niet proberen de grootste collectie te hebben. We kiezen juist voor een compacte, overzichtelijke selectie, een rustige winkelervaring en duidelijke hulp bij vragen over maten, bezorgen of retourneren. Voor ons is een goede webshop pas geslaagd wanneer jij met vertrouwen kunt kiezen en met plezier je nieuwe schoenen draagt.
+
+PASSENDE AFBEELDING
+Gebruik een professionele sfeerfoto van een moderne schoenenwinkel, sneakerwand, werkplek of teamomgeving. In de meegeleverde website staat al een passende sfeerfoto op de Over Ons-pagina.
+
+FAQ — VRAGEN EN ANTWOORDEN
+
+1. Wat is de levertijd van mijn bestelling?
+Bestel je op een werkdag vóór 22:00, dan streven we ernaar je bestelling de volgende werkdag te bezorgen. Tijdens feestdagen, acties of uitzonderlijke drukte kan de bezorging iets langer duren. Zodra je bestelling is verzonden, ontvang je informatie waarmee je de zending kunt volgen.
+
+2. Wat zijn de verzendkosten?
+Voor een bestelling onder € 75 betaal je € 4,95 verzendkosten. Vanaf een bestelbedrag van € 75 verzendt StepUp gratis. De eventuele verzendkosten worden duidelijk weergegeven voordat je de bestelling afrondt.
+
+3. Hoe kan ik een artikel retourneren?
+Je kunt een artikel binnen 30 dagen na ontvangst retourneren. Schoenen moeten ongedragen, schoon en waar mogelijk in de originele verpakking worden teruggestuurd. Verpak het product zorgvuldig en bewaar je verzendbewijs totdat de retour volledig is verwerkt.
+
+4. Welke betaalmethoden accepteren jullie?
+Bij StepUp kun je veilig betalen met iDEAL, Visa en Mastercard. Daarnaast is er een optie voor achteraf betalen. De beschikbare betaalmethoden worden tijdens het afrekenen overzichtelijk getoond.
+
+EXTRA FAQ
+
+5. Wat moet ik doen als mijn bestelling beschadigd aankomt?
+Neem zo snel mogelijk contact op via service@stepup.nl. Vermeld je bestelnummer en stuur duidelijke foto's van het product en de verpakking mee. We beoordelen de melding en zoeken vervolgens naar een passende oplossing, bijvoorbeeld vervanging of terugbetaling.
+
+6. Hoe kies ik de juiste maat?
+Bekijk onze maatgids voordat je bestelt en controleer daarnaast de pasvorm die op iedere productpagina staat. Twijfel je tussen twee maten, neem dan contact met ons op voor extra advies.
+
+NAVIGATIE
+Hoofdmenu: Home | Shop | Sale | Over ons | FAQ | Contact
+Servicepagina blijft bereikbaar via de footer en de FAQ-pagina.
+
+CONTACT
+E-mail: service@stepup.nl
+Reactietijd: maandag t/m vrijdag, 09:00–17:00; meestal reactie binnen één werkdag.
+
+CHECKLIST OPDRACHT 16
+[X] Over Ons-pagina is makkelijk te vinden in het hoofdmenu.
+[X] Over Ons bevat ruim 100 woorden en minimaal 1 passende foto.
+[X] De tekst noemt wie achter StepUp zit, de missie en wat de webshop uniek maakt.
+[X] Er is een aparte FAQ-pagina in het hoofdmenu.
+[X] FAQ bevat minimaal 4 professionele vragen en antwoorden (er staan er 6).
+[X] Contactinformatie is aanwezig.
+[ ] Peer-review met klasgenoot uitvoeren.
+[ ] Feedback van klasgenoot verwerken.
+[ ] In Mozello op Publiceren klikken.
+[ ] Live Mozello-link in Google Classroom inleveren.

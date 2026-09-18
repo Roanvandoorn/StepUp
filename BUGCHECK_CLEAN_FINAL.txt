@@ -1,0 +1,38 @@
+STEPUP — CLEAN & BUGFIX FINAL
+
+Gecontroleerd en verbeterd:
+- Alle pagina's dezelfde rustige, clean StepUp-stijl gegeven.
+- Overmatige 3D/magnetische/glow-animaties teruggebracht voor een consistente uitstraling.
+- Dubbelen in site.js verwijderd: nog maar één DOMContentLoaded-initialisatie.
+- Winkelmand-drawer klikbug opgelost (pointer-events/z-index gedrag).
+- Mobiele bottom navigation en winkelmandknop expliciet klikbaar gemaakt.
+- 'Toevoegen aan winkelmand' gecontroleerd met maat + kleur.
+- Checkout-samenvatting wordt nu direct bijgewerkt na verwijderen via het zijmandje.
+- Lege checkout-knoppen correct disabled + aria-disabled gemaakt.
+- Aantal modellen gecorrigeerd van 8 naar 10 op Shop en Over ons.
+- Inline styles verwijderd en vervangen door herbruikbare CSS-klassen.
+- Sale-navigatie krijgt nu een actieve status wanneer de Sale-filter openstaat.
+- Focus-states toegevoegd voor toetsenbordgebruik.
+
+Technische eindtest:
+- 12 pagina's getest op desktop (1440px) en mobiel (390px).
+- Geen horizontale overflow gevonden.
+- Geen JavaScript page errors gevonden.
+- Header en footer laden op alle pagina's.
+- Winkelmandflow getest: product kiezen -> toevoegen -> drawer -> winkelmand -> checkout.
+- Verwijderen vanuit checkout-drawer werkt en werkt totaal/count direct bij.
+
+LAATSTE POLISH — TOEVOEGEN AAN WINKELMAND
+- Oorzaak van de enorme knop gevonden: het inline SVG-icoon had geen vaste afmetingen en kon daardoor de standaard SVG-afmeting aannemen.
+- Alle SVG-iconen binnen .btn zijn nu expliciet begrensd op 18x18 px.
+- Het winkelmand-icoon in de productknop is 20x20 px.
+- De productknop is nu vast 56 px hoog (54 px mobiel), met nette padding, radius en hover/active feedback.
+- Kleurkeuzes hebben nu automatische breedte zodat teksten zoals 'Antraciet' niet worden afgekapt.
+- Maatknoppen, focus-states en spacing zijn gelijkgetrokken met de rest van de StepUp-stijl.
+
+VIJF CONTROLEPASSES OP DEZE VERSIE
+1. Interne links/assets: geen ontbrekende lokale bestanden gevonden.
+2. HTML-structuur: geen dubbele IDs; titles, descriptions, viewport en nl-taal aanwezig.
+3. CSS: stylesheet parseert zonder fouten en bevat de button-size guards.
+4. JavaScript: node --check geslaagd; geen dubbele named functions.
+5. Winkelmandlogica: addCart + removeCart gesimuleerd; product-id, maat en kleur worden correct opgeslagen en verwijderd.

@@ -1,0 +1,14 @@
+STEPUP — VERBETERDE VERSIE
+
+Deze versie combineert de onderdelen van Opdracht 12 en het uitgebreide productaanbod van Opdracht 14.
+
+Verbeterd:
+- 10 producten verdeeld over Sneakers, Sport en Lifestyle.
+- Productpagina's hebben 3 echt verschillende productfoto's in de galerij.
+- Toevoegen aan winkelmand werkt met maat en, waar van toepassing, kleur.
+- Winkelmand bewaart maat en kleur en opent direct na toevoegen.
+- Productknop geeft zichtbaar de bevestiging “Toegevoegd aan winkelmand”.
+- Footer, productpagina en mobiele weergave zijn visueel opnieuw uitgebalanceerd.
+- SEO, FAQ, socialmedia-links en betaalinformatie van Opdracht 12 zijn behouden.
+
+Open index.html om de website te bekijken.

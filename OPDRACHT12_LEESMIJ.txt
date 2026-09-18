@@ -1,0 +1,12 @@
+STEPUP – OPDRACHT 12: VINDBAARHEID, SOCIAL MEDIA & VERTROUWEN
+
+In deze versie zijn de onderdelen van Opdracht 12 verwerkt:
+- SEO-titel en meta-beschrijving verbeterd op homepage, shop en klantenservice.
+- FAQ uitgebreid met betalen, beschadigd product en retourneren.
+- Socialmedia-links toegevoegd in de footer (Instagram, TikTok en YouTube).
+- Footer uitgebreid met klantenservice, reactietijden, betaalmethoden en copyright.
+
+BELANGRIJK VOOR MOZELLO
+De HTML-versie is een voorbeeld/uitwerking. Neem de teksten uit het aparte Mozello-invulblad over in jouw echte Mozello-webshop. Vervang de algemene socialmedia-links door een account dat je echt wilt gebruiken voordat je inlevert.
+
+Laat daarna een klasgenoot de peer-review doen, verwerk de feedback en klik in Mozello op Publiceren.
